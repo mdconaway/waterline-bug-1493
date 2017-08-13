@@ -1,0 +1,28 @@
+{
+  "name": "waterline-bug-1493",
+  "version": "1.0.0",
+  "description": "Demonstrates stripping incorrect query juncts/disjuncts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdconaway/waterline-bug-1493.git"
+  },
+  "keywords": [
+    "waterline",
+    "bug"
+  ],
+  "author": "mdconaway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdconaway/waterline-bug-1493/issues"
+  },
+  "homepage": "https://github.com/mdconaway/waterline-bug-1493#readme",
+  "dependencies": {
+    "sails-disk": "^1.0.0-11",
+    "waterline": "^0.13.1-0"
+  }
+}
